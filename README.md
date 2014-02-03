@@ -41,6 +41,6 @@ For a very long list of URLs, this could take a lot of time.
 
 ## Future
 - In the future I plan refactor this script to make it multithreaded, so a large list of urls can get checked faster.
-- I'm open to suggestion.
+- I'm open to suggestions.
 
 
