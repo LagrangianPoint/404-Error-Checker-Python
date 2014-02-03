@@ -40,6 +40,7 @@ This script appears to be slow because it is being run only on a single thread, 
 For a very long list of URLs, this could take a lot of time.
 
 ## Future
-In the future I plan refactor this script to make it multithreaded, so a large list of urls can get checked faster.
+- In the future I plan refactor this script to make it multithreaded, so a large list of urls can get checked faster.
+- I'm open to suggestion.
 
 
