@@ -4,7 +4,7 @@
 A Python tool for checking a list of URLS to find out which ones throw a 404 errror.
 
 
-# Why use this tool?
+## Why use this tool?
 This tools is ideal for checking the **404** error list that **Google Webmaster Tools** throws whenever these kind of errors arise for a website.
 
 For **SEO** purposes, it is very bad to have lots of 404 erros exist in your site, and it also could irritate users. 
@@ -14,10 +14,10 @@ These errors may arrise as a result of a desing change of a website, website mig
 When the script finishes, it shows you a summary of how many urls were broken and how many were correct.
 
 
-# Requirements
+## Requirements
 - Python 2.7
 
-# How to use it
+## How to use it
 1. Have your input URLs ready. Enter one URL per line.
 2. Run this script with:
 ```
@@ -34,12 +34,12 @@ If you are using Windows, just double click the file **404-checker.py**
 4. Wait for the script to finish. 
 
 
-# Issues
-## Why is it so slow?
+## Issues
+### Why is it so slow?
 This script appears to be slow because it is being run only on a single thread, so the URLs are checked one at the time.
 For a very long list of URLs, this could take a lot of time.
 
-# Future
+## Future
 In the future I plan refactor this script to make it multithreaded, so a large list of urls can get checked faster.
 
 
