@@ -19,16 +19,16 @@ When the script finishes, it shows you a summary of how many urls were broken an
 
 ## How to use it
 1. Have your input URLs ready. Enter one URL per line.
-2. Run this script with:
-```
-python 404-checker.py
-```
-or 
-```
-chmod +x 404-checker.py
-./404-checker.py
-```
-If you are using Windows, just double click the file **404-checker.py** 
+2. On Linux run this script with: 
+	``` 
+	python 404-checker.py
+	```
+	or 
+	```
+	chmod +x 404-checker.py
+	./404-checker.py
+	```
+	If you are using Windows, just double click the file **404-checker.py** 
 
 3. Type the name of your input file.
 4. Wait for the script to finish. 
